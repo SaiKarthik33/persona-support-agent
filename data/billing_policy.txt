@@ -1,0 +1,7 @@
+Standard Billing and Refund Policy
+
+Operational Uptime & Disputes:
+Our standard operational uptime SLA is 99.9%. If you experience business impact due to downtime, billing disputes are evaluated on a case-by-case basis. The standard timeline for resolving billing disputes is 3 to 5 business days.
+
+Refunds and Duplicate Charges:
+If your billing statement reflects unexpected duplicate charges, do not panic. Our automated reconciliation system flags these within 24 hours. To request an immediate refund for a duplicate charge, please contact our escalated support desk. Refunds typically process within 5-7 business days depending on your financial institution.
